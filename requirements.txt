@@ -1,0 +1,6 @@
+pygame
+random
+operator
+time
+queue
+matplotlib
